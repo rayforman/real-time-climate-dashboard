@@ -2,9 +2,11 @@
 
 > **Enterprise-grade real-time data pipeline**
 
+<!-- UNCOMMENT WHEN PRODUCTION SITE LIVE
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-success)](https://climate-dashboard.yourdomain.com)
 [![API Docs](https://img.shields.io/badge/API%20Docs-FastAPI-blue)](https://climate-dashboard.yourdomain.com/docs)
 [![System Status](https://img.shields.io/badge/System%20Status-99.9%25%20Uptime-green)](https://status.yourdomain.com)
+-->
 
 A sophisticated real-time buoy data pipeline and dashboard that showcases enterprise-level data engineering skills. Built with the same architecture patterns used by quantitative trading firms.
 
